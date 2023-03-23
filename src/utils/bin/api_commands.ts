@@ -23,9 +23,16 @@ export const quote = async (args: string[]): Promise<string> => {
 };
 
 export const readme = async (args: string[]): Promise<string> => {
-  const readme = await getReadme();
   return `Opening GitHub README...\n
-  ${readme}`;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">hello there!
+
+I study cs and business at Columbia University. I am also a film minor.
+
+- 🔭 research: ml and dl, computer vision, recurrent neural networks, web development (backend)
+- 🌱 hobbies: product & software design, drum, djing, watching movies
+- 🌐 websites: [🖥️ official](<a href="https://robinlee.dev">https://robinlee.dev</a>) | [💻 terminal](<a href="https://term.robinlee.dev">https://term.robinlee.dev</a>)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sl5035&hide_border=true&theme=radical" alt="sl5035 github stats" />`;
 };
 
 export const weather = async (args: string[]): Promise<string> => {
