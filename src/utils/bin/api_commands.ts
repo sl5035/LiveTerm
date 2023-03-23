@@ -1,6 +1,6 @@
 // List of commands that require API calls
 
-import { getProjects, getQuote, getReadme, getWeather } from '../api';
+import { getProjects, getQuote, getWeather } from '../api';
 
 export const ls = async (args: string[]): Promise<string> => {
   const projects = await getProjects();
