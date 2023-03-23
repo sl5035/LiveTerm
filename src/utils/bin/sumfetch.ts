@@ -16,8 +16,8 @@ const sumfetch = async (args: string[]): Promise<string> => {
   @@           @@        @@        @@        <u><a href="https://linkedin.com/in/${config.social.linkedin}" target="_blank">linkedin.com/in/${config.social.linkedin}</a></u>
    @@             @@@@@@          @@        -----------
      @@@                        @@@         ⛿ PROJECTS 
-        @@@                  @@@ @@         ☞ <u><a href="https://github.com/sl5035/Space-Debris-Reentry target="_blank">${config.social.github}/Space-Debris-Reentry-Prediction</a></u>
-         @|  @@@@@@@@@@@@@@@@   @@          ☞ <u><a href="https://github.com/sl5035/3D-HisSite target="_blank">${config.social.github}/3d-HisSite</a></u>
+        @@@                  @@@ @@         ☞ <u><a href="https://github.com/sl5035/Space-Debris-Reentry>${config.social.github}/Space-Debris-Reentry-Prediction</a></u>
+         @|  @@@@@@@@@@@@@@@@   @@          ☞ <u><a href="https://github.com/sl5035/3D-HisSite>${config.social.github}/3d-HisSite</a></u>
 
 `;
   } else {
@@ -35,8 +35,8 @@ const sumfetch = async (args: string[]): Promise<string> => {
    ▓▓      ▐▓▓    ▓▓    ▐▓▓     ▓▓           <u><a href="https://linkedin.com/in/${config.social.linkedin}" target="_blank">linkedin.com/in/${config.social.linkedin}</a></u>
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           -----------
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀            ⛿ PROJECTS  
-        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀               ☞ <u><a href="https://github.com/sl5035/Space-Debris-Reentry target="_blank">${config.social.github}/Space-Debris-Reentry-Prediction</a></u>
-            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                  ☞ <u><a href="https://github.com/sl5035/3D-HisSite target="_blank">${config.social.github}/3d-HisSite</a></u>
+        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀               ☞ <u><a href="https://github.com/sl5035/Space-Debris-Reentry>${config.social.github}/Space-Debris-Reentry-Prediction</a></u>
+            ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                  ☞ <u><a href="https://github.com/sl5035/3D-HisSite>${config.social.github}/3d-HisSite</a></u>
 
 `;
   }
