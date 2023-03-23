@@ -77,12 +77,8 @@ export const whoami = async (args: string[]): Promise<string> => {
   return `${config.ps1_username}`;
 };
 
-export const ls = async (args: string[]): Promise<string> => {
-  return `a
-bunch
-of
-fake
-directories`;
+export const cd = async (args: string[]): Promise<string> => {
+  return `Sorry, this feature is not implemented yet :(`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
