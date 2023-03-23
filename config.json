@@ -1,39 +1,35 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/sl5035/sl5035/master/README.md",
+  "title": "TERMINAL: robinlee",
+  "name": "Robin Lee",
+  "ascii": "robinlee",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "sl5035",
+    "linkedin": "robinlee02"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "email": "sl5035@columbia.edu",
+  "ps1_hostname": "robinlee",
+  "ps1_username": "traveler",
+  "repo": "https://github.com/sl5035/LiveTerm",
+  "resume_url": "https://media.graphassets.com/CsozvxWJSAuZ1KcQvGfg",
   "colors": {
-    "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
-    },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+        "background": "#d5d6db",
+        "foreground": "#34548a",
+        "yellow": "#8f5e15",
+        "green": "#9ece6a",
+        "gray": "#565a6e",
+        "blue": "#166775",
+        "red": "#f7768e"
+    },
+    "light": {
+        "background": "#1a1b26",
+        "foreground": "#a9b1d6",
+        "yellow": "#FEC418",
+        "green": "#9ece6a",
+        "gray": "#9aa5ce",
+        "blue": "#7dcfff",
+        "red": "#f7768e"
     }
   }
 }
