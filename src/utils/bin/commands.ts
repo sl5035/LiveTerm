@@ -32,7 +32,7 @@ export const gui = async (args: string[]): Promise<string> => {
 // About
 export const about = async (args: string[]): Promise<string> => {
   return `Hi, I am ${config.name}. 
-Welcome to my website!
+Thank you for traveling to my website!
 More about me:
 'sumfetch' - short summary.
 'resume' - my latest resume.
